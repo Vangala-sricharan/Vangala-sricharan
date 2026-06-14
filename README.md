@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sricharan 👋
 
-<!--
-**Vangala-sricharan/Vangala-sricharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Learning C++, Python and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building Projects and Improving My Development Skills
+
+## Projects
+
+🏪 Store Management System (C++)
+
+🍽️ Restaurant Management System (C++)
+
+## Skills
+
+- C++
+- Python
+- Object Oriented Programming
+- File Handling
+- GitHub
+
+## Goals
+
+- Get an Internship
+- Build AI Projects
+- Crack Placements
