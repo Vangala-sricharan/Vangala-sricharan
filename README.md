@@ -77,7 +77,7 @@ A web experience for creating personalized digital memories and celebrations.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sri-charan-vangala-a7453b384/)
 - 💻 [GitHub](https://github.com/Vangala-sricharan)
-- 🌐 [Portfolio](https://github.com/Vangala-sricharan)
+- 🌐 [Portfolio](vangala-sricharan-portfolio.vercel.app)
 
 ---
 
