@@ -20,21 +20,21 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Sri Charan Vangala**, a Computer Science & Engineering student specializing in **Artificial Intelligence and Machine Learning** at **Marwadi University**.
 
 I enjoy turning ideas into practical software — from AI-enabled applications and full-stack web experiences to programming projects. I’m interested in intelligent systems, product engineering, automation, and continuously improving my development skills.
 
-- 🎓 B.Tech — CSE (Artificial Intelligence & Machine Learning)
-- 🏫 Marwadi University
-- 🧠 Interested in AI/ML, full-stack development, and software engineering
-- 🛠️ Focused on building useful projects and learning through implementation
-- 🌐 Portfolio: [vangala-sricharan-portfolio.vercel.app](https://vangala-sricharan-portfolio.vercel.app/)
+-  B.Tech — CSE (Artificial Intelligence & Machine Learning)
+-  Marwadi University
+-  Interested in AI/ML, full-stack development, and software engineering
+-  Focused on building useful projects and learning through implementation
+-  Portfolio: [vangala-sricharan-portfolio.vercel.app](https://vangala-sricharan-portfolio.vercel.app/)
 
 ---
 
-## 🧰 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -51,7 +51,7 @@ I enjoy turning ideas into practical software — from AI-enabled applications a
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 
 ### 1. Digital Student Twin
 An AI-powered student intelligence platform designed to help track academic progress, skills, projects, and career readiness. Its modular workspace brings together study planning, progress tracking, recommendations, and portfolio-building capabilities.
@@ -72,7 +72,7 @@ A campus-focused lost-item reporting application. Students can submit item detai
 
 ---
 
-## 💼 Experience
+##  Experience
 
 - **DecodeLabs** — Artificial Intelligence Virtual Internship  
   Completed the virtual internship program (June–July 2026).
@@ -88,7 +88,7 @@ A campus-focused lost-item reporting application. Students can submit item detai
 
 ---
 
-## 🏅 Certifications & Achievements
+##  Certifications & Achievements
 
 - Foundation Course on Applied Machine Learning and AI — CII
 - Generative AI Foundations — AWS Academy
@@ -99,7 +99,7 @@ A campus-focused lost-item reporting application. Students can submit item detai
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -115,7 +115,7 @@ A campus-focused lost-item reporting application. Students can submit item detai
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -126,7 +126,7 @@ A campus-focused lost-item reporting application. Students can submit item detai
 
 ---
 
-## 📄 Resume
+##  Resume
 
 <div align="center">
 
@@ -140,7 +140,7 @@ A campus-focused lost-item reporting application. Students can submit item detai
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in connecting with developers, learning about useful projects, and exploring opportunities to build and grow.
 
